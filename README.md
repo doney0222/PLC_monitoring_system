@@ -1,6 +1,6 @@
 # Python을 이용한 실시간 공정 모니터링 시스템
 
-<img src="https://github.com/doney0222/PLC_monitoring_system/img/image01.png">
+<img src="./img/image01.png">
 
 ## 프로젝트의 목적
 
