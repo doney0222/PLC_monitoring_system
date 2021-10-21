@@ -1,5 +1,7 @@
 # Python을 이용한 실시간 공정 모니터링 시스템
 
+<img src="https://github.com/doney0222/PLC_monitoring_system/img/image01.png">
+
 ## 프로젝트의 목적
 
 - 스마트팩토리 관련 교육을 받는 학생들이 쉽게 이용할 수 있는 공정 모니터링 시스템 제작
